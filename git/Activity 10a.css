@@ -1,0 +1,227 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: content-box;
+}
+#a1
+{
+	padding: 75px;
+	background-image: url("Aw/A.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a2
+{
+	padding: 75px;
+	background-image: url("Aw/B.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a3
+{
+	padding: 75px;
+	background-image: url("Aw/C.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a4
+{
+	padding: 75px;
+	background-image: url("Aw/D.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a5
+{
+	padding: 75px;
+	background-image: url("Aw/E.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a6
+{
+	padding: 75px;
+	background-image: url("Aw/F.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a7
+{
+	padding: 75px;
+	background-image: url("Aw/G.jpg");
+	backface-visibility: visible;
+	background-repeat:repeat;
+}
+
+#a8
+{
+	padding: 75px;
+	background-image: url("Aw/H.webp");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a9
+{
+	padding: 75px;
+	background-image: url("Aw/I.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a10
+{
+	padding: 75px;
+	background-image: url("Aw/J.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a11
+{
+	padding: 75px;
+	background-image: url("Aw/K.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a12
+{
+	padding: 75px;
+	background-image: url("Aw/L.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a13
+{
+	padding: 75px;
+	background-image: url("Aw/M.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a14
+{
+	padding: 75px;
+	background-image: url("Aw/O.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a15
+{
+	padding: 75px;
+	background-image: url("Aw/P.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a16
+{
+	padding: 75px;
+	background-image: url("Aw/Q.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a17
+{
+	padding: 75px;
+	background-image: url("Aw/R.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a18
+{
+	padding: 75px;
+	background-image: url("Aw/S.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a19
+{
+	padding: 75px;
+	background-image: url("Aw/T.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a20
+{
+	padding: 75px;
+	background-image: url("Aw/U.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a21
+{
+	padding: 75px;
+	background-image: url("Aw/V.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a22
+{
+	padding: 75px;
+	background-image: url("Aw/X.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a23
+{
+	padding: 75px;
+	background-image: url("Aw/Y.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a24
+{
+	padding: 75px;;
+	background-image: url("Aw/Z.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a25
+{
+	padding: 75px;
+	background-image: url("Aw/A.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+#a26
+{
+	padding: 75px;
+	background-image: url("Aw/A.jpg");
+	backface-visibility: visible;
+	background-repeat: repeat;
+}
+
+nav
+{
+	height: 75px;
+	width: 100%;
+	background-color: darkgrey;
+}
+nav h1
+{
+	line-height: 68px;
+	font-size: 60px;
+	text-align: center;
+	text-decoration: underline;
+}
